@@ -1,7 +1,7 @@
 {
   "name": "hotel",
-  "version": "0.8.7",
-  "description": "Local domains for everyone and more! ",
+  "version": "0.8.8-ka",
+  "description": "Local domains for everyone and more! KA branch based on PR-354 code (https://github.com/typicode/hotel/pull/354)",
   "main": "lib",
   "bin": "lib/cli/bin.js",
   "engines": {
